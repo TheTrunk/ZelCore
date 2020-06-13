@@ -311,6 +311,49 @@ const coininfo = {
       },
     },
   },
+  xcash: {
+    description: "X-Cash is a truly innovative blockchain with unique features built from scratch. Click the buttons to discover how these technologies will help making the bridge between cryptocurrencies and the real world.",
+    total_supply: 100000000000,
+    circulating_supply: 42894995224,
+    links: {
+      homepage: [
+        "https://www.x-network.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.x-cash.org/Explorer",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "https://discordapp.com/invite/4CAahnd",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/XCashCrypto",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=4781246.0",
+      telegram_channel_identifier: "https://t.me/xcashglobal",
+      subreddit_url: "https://www.reddit.com/r/xcash/",
+      repos_url: {
+        github: [
+          "https://github.com/X-CASH-official/X-CASH",
+          "",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   dash: {
     description: "Dash <a href=\"https://www.coingecko.com/buzz/darkcoin-to-dash\">(formerly known as Darkcoin until March 26th 2015)</a> is a cryptocurrency that focuses on privacy and anonymity. Dash protects your privacy by anonymizing transaction that you make over the network using a technology that is developed by the Dash team called DarkSend. DarkSend is inspired out of the CoinJoin project that was meant to anonymize <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> transactions. \r\n\r\nIn Dash, payments are private so nobody can track you, your transactions and balances are nobody’s business. Dash harnesses the power of its Masternode network to power an innovative technology called InstantX. When sending money, users can select the “Use InstantX” box in their wallet, and transactions will be fully sent and irreversible within four seconds. Besides, it has advanced encryption and a trustless protocol for complete security in your payments and anonymization process.\r\n\r\nThe new Dash rebranding of Darkcoin focuses on making open-sourced private digital currency more mainstream. Heavy emphasis are placed on security, instant transaction, and security when it comes to the Dash core development team. Dash was released on the 18th January 2014 with zero premine coins. It uses 11 rounds of hashing algorithm namely blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, and echo which makes it highly secure.\r\n\r\nAs of the current design, there will only be 22 million Dash ever created, making it a deflationary currency. \r\n\r\nCoinGecko had a chance to interview Evan Duffield, creator of Dash to get some insights and perspectives on Dash. Check out here to read more: <a href=\"https://www.coingecko.com/buzz/interview-evan-duffield-dash\">CoinGecko Interview with Evan Duffield, Creator of Dash</a>",
     total_supply: 18920000,
@@ -541,6 +584,47 @@ const coininfo = {
       },
     },
   },
+  usdterc: {
+    description: "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange <a href=\"https://www.coingecko.com/en/exchanges/bitfinex\">Bitfinex</a>).\r\n\r\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\r\n\r\nUSDT is fairly simple to use. Once on exchanges like <a href=\"https://www.coingecko.com/en/exchanges/poloniex\">Poloniex</a> or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+    total_supply: 1550057493.363429,
+    circulating_supply: 1550057493.363429,
+    links: {
+      homepage: [
+        "https://tether.to/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "https://ethplorer.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "https://enjinx.io/eth/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/Tether_to",
+      facebook_username: "tether.to",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: null,
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
   litecoin: {
     description: "Litecoin is a peer-to-peer cryptocurrency created by Charlie Lee. It was created based on the <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin</a> protocol but differs in terms of the hashing algorithm used. Litecoin uses the memory intensive <a href=\"https://www.coingecko.com/en?hashing_algorithm=Scrypt\">Scrypt proof of work</a> mining algorithm. Scrypt allows consumer-grade hardware such as GPU to mine those coins.\r\n\r\nWhy Litecoin?\r\nLitecoin is a cryptocurrency that has evolved from Bitcoin after its own popularity in the industry, this alternative, or ‘altcoin’ has emerged to allow investors to diversify their digital currency package, according to Investopedia. Litecoin is one of the most prominent altcoins and was created by former Google employee and Director of Engineering at <a href=\"https://www.coingecko.com/en/exchanges/coinbase_pro\">Coinbase</a>, Charlie Lee. Litecoin was the first to alter Bitcoin and the most significant difference is that it takes 2.5 minutes for Litecoin to generate a block, or transaction, in comparison to Bitcoin's 10 minutes.\r\n\r\n‘While this matters little to traders, miners who use hardware to run Bitcoin's network cannot switch over to Litecoin. This keeps bigger mining conglomerates away from Litecoin because they cannot easily optimize their profits by swapping to another coin, contributing to a more decentralized experience. Litecoin also has bigger blocks, and more coins in circulation, making it more affordable and swift when transacting,’ Investopedia explained.\r\n\r\nAs explained above, Litecoin can transact a lot faster than Bitcoin, but there are also a number of other characteristics that investors need to know before trading. Litecoin can handle higher volumes of transactions because of the capability of transacting faster and if Bitcoin attempted to transact on the scale of its altcoin, a code update would be needed. However, Litecoin’s blocks would be larger, but with more ‘orphaned blocks'. The faster block time of litecoin reduces the risk of double spending attacks - this is theoretical in the case of both networks having the same hashing power.\r\n\r\nLitecoin Technical Details:\r\nThe transaction confirmation time taken for Litecoin is about 2.5 minutes on average (as compared to Bitcoin's 10 minutes). The Litecoin network is scheduled to cap at 84 million currency units. \r\n\r\nLitecoin has inspired many other popular alternative currencies (eg. <a href=\"https://www.coingecko.com/en/coins/dogecoin\">Dogecoin</a>) because of its Scrypt hashing algorithm in order to prevent ASIC miners from mining those coins. However it is said that by the end of this year, Scrypt ASIC will enter the mass market.",
     total_supply: 84000000,
@@ -718,6 +802,52 @@ const coininfo = {
     },
   },
   binance: {
+    description: "Binance Coin is the cryptocurrency of the <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.\r\n\r\nIn total, there will only be 200 million BNBs. Binance uses the <a href=\"https://www.coingecko.com/en/coins/all?asset_platform_id=279\">ERC20 token standard</a> from <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. \r\n\r\nThe schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.\r\n\r\nBinance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.\r\n\r\nOther tokens that are issued by exchanges include <a href=\"https://www.coingecko.com/en/coins/bibox-token\">Bibox Token</a>, <a href=\"https://www.coingecko.com/en/coins/okb\">OKB</a>, <a href=\"https://www.coingecko.com/en/coins/huobi-token\">Huobi Token</a>, and more.",
+    total_supply: 183345602,
+    circulating_supply: 144443301,
+    links: {
+      homepage: [
+        "https://www.binance.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "https://ethplorer.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+        "https://enjinx.io/eth/token/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+        "https://explorer.binance.org/",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/binance",
+      facebook_username: "binanceexchange",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/binance",
+      repos_url: {
+        github: [
+          "https://github.com/binance-exchange/node-binance-api",
+          "https://github.com/binance-exchange/php-binance-api",
+          "https://github.com/binance-exchange/binance-official-api-docs",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  bnbbinance: {
     description: "Binance Coin is the cryptocurrency of the <a href=\"https://www.coingecko.com/en/exchanges/binance\">Binance</a> platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup name shows that only cryptocurrencies can be traded against each other. It is not possible to trade crypto currencies against Fiat. The platform achieved an enormous success within a very short time and is focused on worldwide market with Malta headquarters. The cryptocurrency currently has a daily trading volume of 1.5 billion - 2 billion US dollars and is still increasing.\r\n\r\nIn total, there will only be 200 million BNBs. Binance uses the <a href=\"https://www.coingecko.com/en/coins/all?asset_platform_id=279\">ERC20 token standard</a> from <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> and has distributed it as follow: 50% sold on ICO, 40% to the team and 10% to Angel investors. The coin can be used to pay fees on Binance. These include trading fees, transaction fees, listing fees and others. Binance gives you a huge discount when fees are paid in BNB. \r\n\r\nThe schedule of BNB fees discount is as follow: In the first year, 50% discount on all fees, second year 25% discount, third year 12.5% discount, fourth year 6.75 % discount, and from the fifth year onwards there is no discount. This structure is used to incentivize users to buy BNB and do trades within Binance.\r\n\r\nBinance announced in a buyback plan that it would buy back up to 100 million BNB in Q1 2018. The coins are then burned. This means that they are devaluated to increase the value of the remaining coins. This benefits investors. In the future, the cryptocurrency will remain an asset on the trading platform and will be used as gas.\r\n\r\nOther tokens that are issued by exchanges include <a href=\"https://www.coingecko.com/en/coins/bibox-token\">Bibox Token</a>, <a href=\"https://www.coingecko.com/en/coins/okb\">OKB</a>, <a href=\"https://www.coingecko.com/en/coins/huobi-token\">Huobi Token</a>, and more.",
     total_supply: 183345602,
     circulating_supply: 144443301,
@@ -1078,6 +1208,182 @@ const coininfo = {
           "https://github.com/brave-intl/bat-native-ledger",
           "https://github.com/brave-intl/bat-ledger",
           "https://github.com/brave-intl/publishers",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  ant: {
+    description: "Aragon empowers you to freely organize and collaborate without borders or intermediaries. Create global, bureaucracy-free organizations, companies, and communities.",
+    total_supply: 39609524,
+    circulating_supply: 29956794,
+    links: {
+      homepage: [
+        "https://aragon.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x960b236A07cf122663c4303350609A66A7B288C0",
+        "https://ethplorer.io/address/0x960b236A07cf122663c4303350609A66A7B288C0",
+        "https://enjinx.io/eth/token/0x960b236A07cf122663c4303350609A66A7B288C0",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://forum.aragon.org/",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/aragonproject",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/aragon/aragon",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  streamrdatacoin: {
+    description: "Streamr is creating an open source platform for the free and fair exchange of the world’s real-time data. Our blockchain-backed data Marketplace and powerful tools put your data back where it belongs – with you.",
+    total_supply: 987154514,
+    circulating_supply: 677154514,
+    links: {
+      homepage: [
+        "https://www.streamr.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "https://ethplorer.io/address/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "https://enjinx.io/eth/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/streamrdata/",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/streamr/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/streamrdata/",
+      subreddit_url: "https://www.reddit.com/r/streamr/",
+      repos_url: {
+        github: [
+          "https://github.com/streamr-dev",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  monetha: {
+    description: "The Monetha Platform is a modular blockchain-based technology. It allows any person, entity, or service to directly exchange information with another person, entity, or service, with trust and privacy.",
+    total_supply: 402400000,
+    circulating_supply: 341543900,
+    links: {
+      homepage: [
+        "https://www.monetha.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+        "https://ethplorer.io/address/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+        "https://enjinx.io/eth/token/0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/Monethagroup",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/Monetha_io",
+      facebook_username: "https://www.facebook.com/Monetha.io",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=1978067.0",
+      telegram_channel_identifier: "https://t.me/Monethagroup",
+      subreddit_url: "https://www.reddit.com/r/Monetha/",
+      repos_url: {
+        github: [
+          "https://github.com/monetha",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  dibicoin: {
+    description: "Dibi is a good boy. Plain and simple. As such he deserves a plain and simple cryptocurrency. So Dibi took the simplicity of an ERC20 token, the fun that DOGE offers and brought them together in Dibicoin.",
+    total_supply: 10000000000,
+    circulating_supply: 10000000000,
+    links: {
+      homepage: [
+        "https://dibicoin.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xf39e4b22050334aaf04259d30d73e78bfee8ab58",
+        "https://ethplorer.io/address/0xf39e4b22050334aaf04259d30d73e78bfee8ab58",
+        "https://enjinx.io/eth/token/0xf39e4b22050334aaf04259d30d73e78bfee8ab58",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discord.io/zel",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/dibicoin",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "",
         ],
         bitbucket: [],
       },
@@ -3029,6 +3335,50 @@ const coininfo = {
       },
     },
   },
+  safecoin: {
+    description: "SafeCoin is an GPU friendly cryptocurrency that was designed to be secure and safe to use. It is the main trading pair of the SafeTrade exchange.",
+    total_supply: 29739167,
+    circulating_supply: 27735063,
+    links: {
+      homepage: [
+        "https://safecoin.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.safecoin.org/",
+        "",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discord.gg/Fz6A2K8",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/safecoins",
+      facebook_username: "safecoins",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2838370",
+      telegram_channel_identifier: "https://t.me/SafeCoinEN",
+      subreddit_url: null,
+      repos_url: {
+        github: [
+          "https://github.com/Fair-Exchange/safecoin/",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
   btcp: {
     description: "Bitcoin Private is fork from <a href=\"https://www.coingecko.com/en/coins/bitcoin\">Bitcoin (BTC)</a>. This coin is also a copy of <a href=\"https://www.coingecko.com/en/coins/zclassic\">ZClassic</a> as they use the same technology. When compared to Bitcoin which lacks privacy and anonymity, Bitcoin Private is better in terms of that due to the privacy technology that they use. The coin’s database is widely available for viewing and verification as it will always remain open source and be continued by the community. Transactions can be made between users as no intermediaries are needed in this decentralized system. Bitcoin Private is also faster than Bitcoin because it supports a bigger block size when compared to Bitcoin. ",
     total_supply: 21000000,
@@ -3344,6 +3694,50 @@ const coininfo = {
       repos_url: {
         github: [
           "https://github.com/AdExBlockchain/adex-core",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  iconomi: {
+    description: "The ICONOMI platform makes it easy to buy and sell cryptocurrencies. Users can purchase leading cryptocurrencies like bitcoin, ether, and ripple directly.",
+    total_supply: 100000000,
+    circulating_supply: 100000000,
+    links: {
+      homepage: [
+        "https://www.iconomi.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+        "https://ethplorer.io/address/0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+        "https://enjinx.io/eth/token/0x888666CA69E0f178DED6D75b5726Cee99A87D698",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/iconomicom",
+      facebook_username: "https://www.facebook.com/iconomicom",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=1789926.0",
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/ICONOMI/",
+      repos_url: {
+        github: [
+          "",
         ],
         bitbucket: [],
       },
@@ -3751,7 +4145,7 @@ const coininfo = {
     },
   },
   dai: {
-    description: "Dai is a stablecoin. It is an Ethereum ERC20 token that is pegged to $1 USD — every Dai is worth $1, and will always be worth $1, regardless of how much Dai is in existence. There is no centralized authority like Tether that backs its value, and no traditional bank that backs each Dai with a real US dollar. There is nothing that can be shut down, and no centralized authority that needs to be trusted. Dai lives entirely within the Ethereum blockchain using smart contracts.\r\n\r\n*Features of Dai:\r\n1. Dai is always worth $1 USD each\r\n2. It can be freely traded like any other ERC20 token\r\n3. Anyone with an Ethereum wallet can own, accept, and transfer it\r\n4. It can be exchanged without any middleman\r\n5. No individual person or company has control over it\r\n6. No government or authority can shut it down\r\n\r\n*How Dai Works?\r\nDai is a masterpiece of game theory that carefully balances economic incentives in the pursuit of one goal — a token that is continuously approaching the value of $1 USD.\r\n\r\nWhen Dai is worth above $1, mechanisms work to decrease the price. When Dai is worth below $1, mechanisms work to increase the price. The rational actors that take part in these mechanisms do so because they earn money anytime Dai is not perfectly worth $1. This is why Dai is always floating slightly above or below $1 — it is an endless wave function bouncing infinitely close to $1, but never quite achieving it. The farther Dai goes from $1, the more incentive there is to fix it. This is the magic of Dai.\r\n\r\n*How is Dai Created?\r\nDai is simply a loan against Ethereum. By using the MakerDAO dApp, advanced users can take loans out in Dai against their ETH holdings.\r\n\r\nFirst, ETH is turned into “wrapped ETH” (WETH), which is simply an ERC20 wrapping around ETH. This “tokenizes” ETH so it can be used like any other ERC20 token. Next, WETH is turned into “pooled ETH” (PETH), which means it joins a large pool of Ethereum that is the collateral for all Dai created. Once you have PETH, you can create a “collateralized debt position” (CDP), which locks up your PETH and allows you to draw Dai against your collateral, which is PETH. As you draw out Dai, the ratio of debt in the CDP increases. There is a debt limit that sets a maximum amount of Dai you can draw against your CDP. Once you have Dai, you can spend or trade it freely like any other ERC20 token.\r\n\r\n*There are several important reasons why you would create Dai, despite the hassle:\r\n\r\n1. You need a loan, and have an asset (ETH) to use as collateral for your loan\r\n\r\n2. You believe ETH is going up in value. You can use your CDP to buy ETH on margin — you lock up your ETH in a CDP, draw Dai against it, use the Dai to buy more ETH on an exchange, and then use that ETH to further increase the size of your CDP. This can be accomplished without any third-party or centralized authority allowing you to do so — margin trading can be accomplished entirely on the blockchain.\r\n\r\n3. The demand for Dai has driven the price above $1 USD. When this occurs, you can create Dai then immediately sell it on an exchange for greater than $1 USD. This is essentially free money, and is one of the mechanisms the Maker system uses to keep Dai pegged to $1 USD. Dai being worth over $1 USD encourages more Dai to be created.\r\nThese three reasons are enough to ensure that Dai is continually created.",
+    description: "Sai is a stablecoin. It is an Ethereum ERC20 token that is pegged to $1 USD — every Sai is worth $1, and will always be worth $1, regardless of how much Sai is in existence. There is no centralized authority like Tether that backs its value, and no traditional bank that backs each Sai with a real US dollar. There is nothing that can be shut down, and no centralized authority that needs to be trusted. Sai lives entirely within the Ethereum blockchain using smart contracts.\r\n\r\n*Features of Sai:\r\n1. Sai is always worth $1 USD each\r\n2. It can be freely traded like any other ERC20 token\r\n3. Anyone with an Ethereum wallet can own, accept, and transfer it\r\n4. It can be exchanged without any middleman\r\n5. No individual person or company has control over it\r\n6. No government or authority can shut it down\r\n\r\n*How Sai Works?\r\nSai is a masterpiece of game theory that carefully balances economic incentives in the pursuit of one goal — a token that is continuously approaching the value of $1 USD.\r\n\r\nWhen Sai is worth above $1, mechanisms work to decrease the price. When Sai is worth below $1, mechanisms work to increase the price. The rational actors that take part in these mechanisms do so because they earn money anytime Sai is not perfectly worth $1. This is why Sai is always floating slightly above or below $1 — it is an endless wave function bouncing infinitely close to $1, but never quite achieving it. The farther Sai goes from $1, the more incentive there is to fix it. This is the magic of Sai.\r\n\r\n*How is Sai Created?\r\nSai is simply a loan against Ethereum. By using the MakerDAO dApp, advanced users can take loans out in Sai against their ETH holdings.\r\n\r\nFirst, ETH is turned into “wrapped ETH” (WETH), which is simply an ERC20 wrapping around ETH. This “tokenizes” ETH so it can be used like any other ERC20 token. Next, WETH is turned into “pooled ETH” (PETH), which means it joins a large pool of Ethereum that is the collateral for all Sai created. Once you have PETH, you can create a “collateralized debt position” (CDP), which locks up your PETH and allows you to draw Sai against your collateral, which is PETH. As you draw out Sai, the ratio of debt in the CDP increases. There is a debt limit that sets a maximum amount of Sai you can draw against your CDP. Once you have Sai, you can spend or trade it freely like any other ERC20 token.\r\n\r\n*There are several important reasons why you would create Sai, despite the hassle:\r\n\r\n1. You need a loan, and have an asset (ETH) to use as collateral for your loan\r\n\r\n2. You believe ETH is going up in value. You can use your CDP to buy ETH on margin — you lock up your ETH in a CDP, draw Sai against it, use the Sai to buy more ETH on an exchange, and then use that ETH to further increase the size of your CDP. This can be accomplished without any third-party or centralized authority allowing you to do so — margin trading can be accomplished entirely on the blockchain.\r\n\r\n3. The demand for Sai has driven the price above $1 USD. When this occurs, you can create Sai then immediately sell it on an exchange for greater than $1 USD. This is essentially free money, and is one of the mechanisms the Maker system uses to keep Sai pegged to $1 USD. Sai being worth over $1 USD encourages more Sai to be created.\r\nThese three reasons are enough to ensure that Sai is continually created.",
     total_supply: 84184453,
     circulating_supply: 84184453,
     links: {
@@ -4251,9 +4645,9 @@ const coininfo = {
         "",
       ],
       explorer: [
-        "https://etherscan.io/token/0xEF68e7C694F40c8202821eDF525dE3782458639f",
-        "https://ethplorer.io/address/0xef68e7c694f40c8202821edf525de3782458639f",
-        "https://enjinx.io/eth/token/0xef68e7c694f40c8202821edf525de3782458639f",
+        "https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "https://ethplorer.io/address/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+        "https://enjinx.io/eth/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
         "",
         "",
       ],
@@ -6018,6 +6412,92 @@ const coininfo = {
       },
     },
   },
+  gas: {
+    description: "Gas is a token created on the NEO blockchain platform with primary purpose of being fees for processing transactions on the NEO network.",
+    total_supply: 17190378,
+    circulating_supply: 10128375,
+    links: {
+      homepage: [
+        "https://neo.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://neotracker.io/",
+        "https://neoscan.io/",
+        "http://antcha.in/",
+        "http://state.otcgo.cn/?network=mainnet&idx=0",
+        "https://scan.nel.group/#mainnet",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discord.io/neo",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/NEO_Blockchain",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2057932",
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/NEO",
+      repos_url: {
+        github: [
+          "https://github.com/neo-project/neo-cli",
+          "https://github.com/neo-project/neo-gui",
+          "https://github.com/neo-project/neo",
+          "https://github.com/CityOfZion/neon-js",
+          "https://github.com/CityOfZion/neo-python",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  neofish: {
+    description: "FishChain, an Ethereum-based blockchain game, has announced its intention to launch a NEO-based counterpart called NeoFish, alongside an airdrop of the NEP-5 version of its FISH token.\n FishChain combines a mining mechanism and fishing gameplay with a token model, with the goal of creating an interactive, player-driven marketplace and ecosystem.",
+    total_supply: 4200000000,
+    circulating_supply: 4200000000,
+    links: {
+      homepage: [
+        "https://twitter.com/neofishchain",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://neotracker.io/",
+        "https://neoscan.io/",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/neofishchain",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
   tron: {
     description: "What is Tron?\r\nTron's mission is to build a truly decentralized internet and aims to be the largest blockchain-based operating system in the world, known as the TRON protocol. The TRON protocol will offer high scalability, high availability, and high throughput computing to serve decentralized applications via smart contracts. Ethereum EVM-based smart contracts will be compatible and deployable on the TRON network as such Solidity developers do not have to rewrite their applications.\r\n\r\nWhy Tron?\r\nSince TRON protocol does not rely on proof of work or mining, instead governed by nodes located around the world, it is decentralized while providing high throughput for transactions on the blockchain. This is suitable for dapps that require high speed transactions especially games. There are a number of tokens already issued on the TRON network and the <a href=\"https://www.coingecko.com/en/exchanges/trx_market\">decentralized exchanges TRX.market</a> has launched.\r\n\r\nOn July 24th 2018, TRON acquired BitTorrent, one of the largest P2P file sharing protocol. As a result of the acquisition, <a href=\"https://www.coingecko.com/en/coins/bittorrent\">BitTorrent Token (BTT)</a> was launched as the cryptocurrency to power the economics on the BitTorrent network. The Token will be used to inceltivize file sharing and storage within the network.\r\n",
     total_supply: 99000000000,
@@ -6370,50 +6850,6 @@ const coininfo = {
       },
     },
   },
-  suqa: {
-    description: "SUQA is a new open source peer to peer digital currency that gives the investors 5 % apr interest from term deposits even if the wallet is offline (the most secure way)\r\n\r\nIt is based on an improved code of the secure and widely used Bitcoin Blockchain with a brand new advanced X22i POW algo which is completely ASIC, FPGA and QUANTUM resistant.",
-    total_supply: 1180000000,
-    circulating_supply: 612437485.603475,
-    links: {
-      homepage: [
-        "https://suqa.org/",
-        "",
-        "",
-      ],
-      explorer: [
-        "Suqaexplorer.com",
-        "",
-        "",
-        "",
-        "",
-      ],
-      official_forum_url: [
-        "",
-        "",
-        "",
-      ],
-      chat_url: [
-        "https://discord.gg/qrtU7Y9",
-        "",
-        "",
-      ],
-      announcement_url: [
-        "",
-        "",
-      ],
-      twitter_screen_name: "https://twitter.com/SUQAfoundation",
-      facebook_username: "SUQAFoundation",
-      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=5038269",
-      telegram_channel_identifier: "https://t.me/Suqafoundation",
-      subreddit_url: "https://www.reddit.com/r/suqa/",
-      repos_url: {
-        github: [
-          "https://github.com/SUQAORG/SUQA-CORE",
-        ],
-        bitbucket: [],
-      },
-    },
-  },
   axe: {
     description: "AXE is a decentralized X11-based cryptocurrency. The foundation of AXE network is hybrid PoW/PoSe system. First-tier nodes provide hash power to move data and secure the blockchain, while the second tier of full nodes adds extra privacy and increases network performance.",
     total_supply: 21000000,
@@ -6506,18 +6942,18 @@ const coininfo = {
     },
   },
   zelcash: {
-    description: "Zelcash is a cryptocurrency that holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelDex and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
+    description: "Zel is a cryptocurrency that holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelFlux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
     total_supply: 210000000,
     circulating_supply: 61640450,
     links: {
       homepage: [
-        "https://zel.cash/",
+        "https://zel.network/",
         "",
         "",
       ],
       explorer: [
         "https://explorer.zel.cash/",
-        "https://explorer.zel.zeltrez.io/",
+        "https://explorer.zel.zelcore.io/",
         "",
         "",
         "",
@@ -6528,7 +6964,7 @@ const coininfo = {
         "",
       ],
       chat_url: [
-        "https://discord.gg/tTpj2Wm",
+        "https://discord.io/zel",
         "",
         "",
       ],
@@ -6544,6 +6980,1777 @@ const coininfo = {
       repos_url: {
         github: [
           "https://github.com/zelcash/zelcash",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  testnet: {
+    description: "TESTZEL - is the unit of cryptocurrency on the Zel Kamata Testnet. This is not ZEL, but it's testnet unit. Zel holds a central role in the Zel Ecosystem.\r\n\r\n It gives the incentive for ZelNode ownership to enable the creation of ZelFlux and the ZelDev Platform, enabling us to create a truly decentralized development platform.",
+    total_supply: 210000000,
+    circulating_supply: 61640450,
+    links: {
+      homepage: [
+        "https://zel.network/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.zel.cash/",
+        "https://explorer.zel.zelcore.io/",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discord.io/zel",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/Zelcash",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2853688",
+      telegram_channel_identifier: "https://t.me/zelcash",
+      subreddit_url: "https://www.reddit.com/r/zelcash",
+      repos_url: {
+        github: [
+          "https://github.com/zelcash/zelcash",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  beaxy: {
+    description: "Beaxy aims to create the ultimate all-in-one cryptocurrency exchange, with more tools at your disposal than ever before, and a user experience that is unmatched. Lifetime referral rewards, coin staking loyalty program, instant FIAT deposits, 24/7 customer support, charting inside the exchange, mobile app functionality with custom alerts, unique trading pairs, four layers of security architecture, and enhanced transaction throughput are just some of the ways we stand out from other platforms and offer you the best possible trading experience.",
+    total_supply: 500000000,
+    circulating_supply: 500000000,
+    links: {
+      homepage: [
+        "https://www.beaxy.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x827d53c8170af52625f414bde00326fc8a085e86",
+        "https://ethplorer.io/address/0x827d53c8170af52625f414bde00326fc8a085e86",
+        "https://enjinx.io/eth/token/0x827d53c8170af52625f414bde00326fc8a085e86",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "https://medium.com/beaxy-exchange",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://www.reddit.com/r/BeaxyExchange/",
+        "https://twitter.com/BeaxyExchange",
+        "",
+      ],
+      announcement_url: [
+        "https://support.beaxy.com/hc/en-us/sections/360000239354-Announcements",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/BeaxyExchange",
+      facebook_username: "https://www.facebook.com/beaxyexchange/",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2912122.0",
+      telegram_channel_identifier: "https://t.me/Beaxy",
+      subreddit_url: "https://www.reddit.com/r/BeaxyExchange/",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  stableusd: {
+    description: "StableUSD (USDS) is a fiat-collateralized stablecoin created by Stably. Each StableUSD token is legally backed and redeemable for a US Dollar held in escrow accounts managed by Stably's regulated trustees, such as Prime Trust.",
+    total_supply: 5742204,
+    circulating_supply: 5742204,
+    links: {
+      homepage: [
+        "http://www.stably.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "https://ethplorer.io/address/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "https://enjinx.io/eth/token/0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "https://medium.com/stably-blog",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "https://twitter.com/StablyCoin",
+        "",
+      ],
+      announcement_url: [
+        "https://medium.com/@stablycoin",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/StablyCoin",
+      facebook_username: "https://www.facebook.com/stablycoin",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  nuke: {
+    description: "Half Life ($NUKE) is a currency that grows by shrinking.",
+    total_supply: 965389,
+    circulating_supply: 965389,
+    links: {
+      homepage: [
+        "http://www.nuketoken.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+        "https://ethplorer.io/address/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+        "https://enjinx.io/eth/token/0xc58c0Fca06908E66540102356f2E91edCaEB8D81",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/joinchat/AAAAAFRkqWjAFv-iFvtomQ",
+        "https://discordapp.com/invite/6yWt6Xv",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/NukeToken/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/joinchat/AAAAAFRkqWjAFv-iFvtomQ",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  dogecoin: {
+    description: "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the Doge Internet meme as its logo.",
+    total_supply: null,
+    circulating_supply: 120080274518,
+    links: {
+      homepage: [
+        "https://dogecoin.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://dogechain.info/",
+        "https://live.blockcypher.com/doge/",
+        "https://dogechain.info/chain/Dogecoin",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "http://webchat.freenode.net/?nick=Shibe..&channels=%23dogecoin&prompt=1",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/dogecoin/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "http://www.reddit.com/r/dogecoin",
+      repos_url: {
+        github: [
+          "https://github.com/dogecoin/dogecoin",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  bittorrent: {
+    description: "BitTorrent aims to tokenize the decentralized file-sharing protocol with their cryptocurrency asset launched early in 2019.\r\n BTT represents a TRC-10 utility token based on the TRON blockchain that could allow content creators to connect with their audience,\r\n earn and spend digital currency without a middleman. According to their website, BitTorrent (BTT) tokens can be bid in exchange for faster downloads or stored in a wallet built into the BitTorrent client.\r\n",
+    total_supply: 99000000000,
+    circulating_supply: 212116500000,
+    links: {
+      homepage: [
+        "https://www.bittorrent.com",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://tronscan.org/",
+        "https://www.trxplorer.io/",
+        "https://trx.tokenview.com/",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://medium.com/bittorrent",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/bittorrent",
+      facebook_username: "tronfoundation",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: null,
+      subreddit_url: "https://www.reddit.com/r/Bittorrent/",
+      repos_url: {
+        github: [
+          "https://github.com/bittorrent",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  digibyte: {
+    description: "DigiByte (DGB) is a rapidly growing global blockchain with a focus on cybersecurity for digital payments & decentralized applications. Over 5 years, DigiByte has become the world's fastest, longest and most decentralized UTXO blockchain today.",
+    total_supply: 21000000000,
+    circulating_supply: 11959860275,
+    links: {
+      homepage: [
+        "https://www.digibyte.io",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://digiexplorer.info/",
+        "https://chainz.cryptoid.info/dgb/",
+        "https://digibyteblockexplorer.com/",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/DigiByteCoin",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/DigiByteCoin/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/Digibyte",
+      repos_url: {
+        github: [
+          "https://github.com/digibyte-core",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  bzedge: {
+    description: "An ultra fast, secure and low cost blockchain...",
+    total_supply: 3030000000,
+    circulating_supply: 2985853568,
+    links: {
+      homepage: [
+        "https://getbze.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.getbze.com/",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discordapp.com/invite/K6sdMht",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/BZEdgeCoin",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=5030236",
+      telegram_channel_identifier: "https://t.me/BZEdgeOfficial",
+      subreddit_url: "https://www.reddit.com/user/BZEdge",
+      repos_url: {
+        github: [
+          "https://github.com/bze-alphateam/bzedge",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  sinovate: {
+    description: "SINOVATE (SIN) is a new Peer-to-Peer (P2P) digital currency and ecosystem which creates unique and modern Blockchain products, services and solutions. \n"
+      + "SIN embraces this new technology and has executed extensive research, on various ways to educate others and help them implement innovation into their daily lives and businesses.",
+    total_supply: 1186614344,
+    circulating_supply: 503123490,
+    links: {
+      homepage: [
+        "https://sinovate.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "http://explorer.sinovate.io/",
+        "http://sin.ccore.online/orphan",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/SinovateChain",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/SinovateChain/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/SINOVATEblockchain",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  stellar: {
+    description: "Stellar | Move Money Across Borders Quickly, Reliably, And For Fractions Of A Penny. \n"
+      + "Stellar is a platform that connects banks, payments systems, and people. Integrate to move money quickly, reliably, and at almost no cost.",
+    total_supply: 105142706350,
+    circulating_supply: 19425874842,
+    links: {
+      homepage: [
+        "https://www.stellar.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://dashboard.stellar.org/",
+        "https://stellar.expert/explorer/public/",
+        "https://steexp.com/",
+        "https://stellarscan.io/",
+        "",
+      ],
+      official_forum_url: [
+        "https://keybase.io/team/stellar.public",
+        "https://stellarcommunity.org/",
+        "https://galactictalk.org/",
+      ],
+      chat_url: [
+        "https://keybase.io/team/stellar.public",
+        "https://stellarcommunity.org/",
+        "https://galactictalk.org/",
+      ],
+      announcement_url: [
+        "https://bitcointalk.org/index.php?topic=1428573.0",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/stellarorg/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/stellar",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  gcstar: {
+    description: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+    total_supply: 1000000000,
+    circulating_supply: 1000000000,
+    links: {
+      homepage: [
+        "https://merchcoins.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xb2d25d27f3f8f2265bedc400f00dac8b7521106a",
+        "https://ethplorer.io/address/0xb2d25d27f3f8f2265bedc400f00dac8b7521106a",
+        "https://enjinx.io/eth/token/0xb2d25d27f3f8f2265bedc400f00dac8b7521106a",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/merchcoins/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  gctgt: {
+    description: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+    total_supply: 1000000000,
+    circulating_supply: 1000000000,
+    links: {
+      homepage: [
+        "https://merchcoins.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xed1a361830628c87ca3e283450101b833ae26114",
+        "https://ethplorer.io/address/0xed1a361830628c87ca3e283450101b833ae26114",
+        "https://enjinx.io/eth/token/0xed1a361830628c87ca3e283450101b833ae26114",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/merchcoins/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  gcwal: {
+    description: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+    total_supply: 1000000000,
+    circulating_supply: 1000000000,
+    links: {
+      homepage: [
+        "https://merchcoins.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x0bd0e8e9ce51945e3295f12a344ccaf6893f43f9",
+        "https://ethplorer.io/address/0x0bd0e8e9ce51945e3295f12a344ccaf6893f43f9",
+        "https://enjinx.io/eth/token/0x0bd0e8e9ce51945e3295f12a344ccaf6893f43f9",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/merchcoins/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  gcbest: {
+    description: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+    total_supply: 1000000000,
+    circulating_supply: 1000000000,
+    links: {
+      homepage: [
+        "https://merchcoins.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x1388f1635aed7fc09526bd66f317e88aea888dd5",
+        "https://ethplorer.io/address/0x1388f1635aed7fc09526bd66f317e88aea888dd5",
+        "https://enjinx.io/eth/token/0x1388f1635aed7fc09526bd66f317e88aea888dd5",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/merchcoins/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  gchd: {
+    description: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+    total_supply: 1000000000,
+    circulating_supply: 1000000000,
+    links: {
+      homepage: [
+        "https://merchcoins.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xa33d3b1bc1bf9fd9987c9e3f5e81722e12767a72",
+        "https://ethplorer.io/address/0xa33d3b1bc1bf9fd9987c9e3f5e81722e12767a72",
+        "https://enjinx.io/eth/token/0xa33d3b1bc1bf9fd9987c9e3f5e81722e12767a72",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/merchcoins/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  gclowe: {
+    description: "Merchcoins are wrapped gift cards in the form of ERC-20 stablecoins. Buy, exchange, send and receive Merchcoins today.",
+    total_supply: 1000000000,
+    circulating_supply: 1000000000,
+    links: {
+      homepage: [
+        "https://merchcoins.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x1675c092306d147d65ee81976d5d3bec99a3bb91",
+        "https://ethplorer.io/address/0x1675c092306d147d65ee81976d5d3bec99a3bb91",
+        "https://enjinx.io/eth/token/0x1675c092306d147d65ee81976d5d3bec99a3bb91",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/merchcoins/",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  ontology: {
+    description: "Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
+      + "The Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\n"
+      + "Ontology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol.\n",
+    total_supply: 1000000000,
+    circulating_supply: 533255142,
+    links: {
+      homepage: [
+        "https://ont.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.ont.io/",
+      ],
+      official_forum_url: [
+        "https://www.reddit.com/r/OntologyNetwork/",
+      ],
+      chat_url: [
+      ],
+      announcement_url: [
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/ontologynetwork",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/ontio",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  ontologygas: {
+    description: "Ontology gas is token used for paying transactions on ontology network. Ontology describes itself as a provider of high-performance public blockchains, which includes distributed ledger and smart contract systems.\n"
+      + "The Ontology blockchain framework reportedly supports public blockchain systems that can be customized for different applications. Ontology supports collaboration among chain networks with its various protocol groups.\n"
+      + "Ontology aims to constantly provide common modules on the underlying infrastructure for different kinds of distributed scenarios, such as those for the distributed digital identity framework and distributed data exchange protocol.\n",
+    total_supply: 1000000000,
+    circulating_supply: null,
+    links: {
+      homepage: [
+        "https://ont.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.ont.io/",
+      ],
+      official_forum_url: [
+        "https://www.reddit.com/r/OntologyNetwork/",
+      ],
+      chat_url: [
+      ],
+      announcement_url: [
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/ontologynetwork",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/ontio",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  dmme: {
+    description: "DMme is a messenger mobile application. It will be built using military grade end to end encryption. Anonymous, data is accessible by the user only. Full control, the user decide who to chat with, and authroise/block members. No phone number required, no one is able to track you via your mobile provider to not rely on advertising for stream of income. Reward, portion of each subscription is given back to the community. Subscription based, to not rely on advertising for stream of income.",
+    total_supply: 60000000,
+    circulating_supply: 60000000,
+    links: {
+      homepage: [
+        "https://dmme.app//",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
+        "https://ethplorer.io/address/0x9556f8ee795d991ff371f547162d5efb2769425f",
+        "https://enjinx.io/eth/token/0x9556f8ee795d991ff371f547162d5efb2769425f",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discordapp.com/invite/AQY6zab",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/DMmecoin",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=5106323.0",
+      telegram_channel_identifier: "https://t.me/Dmmecoin",
+      subreddit_url: null,
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  veriblock: {
+    description: "The VeriBlock blockchain implements the Proof-of-Proof consensus protocol and is designed to allow the efficient, secure, and easy-to-implement inheritance of Bitcoin’s Proof-of-Work security by a theoretically unbounded quantity of additional blockchains.",
+    total_supply: 2100000000,
+    circulating_supply: 364696339,
+    links: {
+      homepage: [
+        "https://www.veriblock.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explore.veriblock.org",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discord.gg/wJZEjry",
+        "https://t.me/joinchat/Ce9nI06lMKOndhoNTkjLKw",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/VeriBlock",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/joinchat/Ce9nI06lMKOndhoNTkjLKw",
+      subreddit_url: "https://reddit.com/r/veriblock",
+      repos_url: {
+        github: [
+          "https://github.com/VeriBlock/nodecore-releases",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  huobitoken: {
+    description: "Huobi Token (HT) is an exchange based token and native currency of the Huobi crypto exchange. The HT can be used to purchase monthly VIP status plans for transaction fee discounts, vote on exchange decisions, gain early access to special Huobi events, receive crypto rewards from seasonal buybacks and trade with other cryptocurrencies listed on the Huobi exchange.",
+    total_supply: 500000000,
+    circulating_supply: 241284047,
+    links: {
+      homepage: [
+        "https://www.hbg.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "https://ethplorer.io/address/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "https://enjinx.io/eth/token/0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/huobiglobalofficial",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/HuobiGlobal",
+      facebook_username: "",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/huobiglobalofficial",
+      subreddit_url: null,
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  busd: {
+    description: "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
+    total_supply: 22785300,
+    circulating_supply: 17785300,
+    links: {
+      homepage: [
+        "https://www.paxos.com/busd/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "https://ethplorer.io/address/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "https://enjinx.io/eth/token/0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/binanceexchange",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/binance",
+      facebook_username: "binanceexchange",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: "https://www.reddit.com/r/binance",
+      repos_url: {
+        github: [
+          "https://github.com/binance-exchange/node-binance-api",
+          "https://github.com/binance-exchange/php-binance-api",
+          "https://github.com/binance-exchange/binance-official-api-docs",
+        ],
+        bitbucket: [],
+      },
+    },
+  },
+  okb: {
+    description: "OKEx is a world-leading digital asset exchange, providing advanced financial services to traders globally by using blockchain technology.",
+    total_supply: 300000000,
+    circulating_supply: 20000000,
+    links: {
+      homepage: [
+        "https://www.okex.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "https://ethplorer.io/address/0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "https://enjinx.io/eth/token/0x75231f58b43240c9718dd58b4967c5114342a86c",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/OKExchinesegroup",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/OKEx",
+      facebook_username: "OKExOfficial",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/OKExchinesegroup",
+      subreddit_url: "https://www.reddit.com/r/OKEx/",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  bitforextoken: {
+    description: "BitForex Token is the native asset of the Bitforex exchange.",
+    total_supply: 10000000000,
+    circulating_supply: 4251590766,
+    links: {
+      homepage: [
+        "https://www.bitforex.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+        "https://ethplorer.io/address/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+        "https://enjinx.io/eth/token/0x5b71bee9d961b1b848f8485eec8d8787f80217f5",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/BitForexEnglish",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/bitforexcom",
+      facebook_username: "bitforexcom",
+      bitcointalk_thread_identifier: "",
+      telegram_channel_identifier: "https://t.me/BitForexEnglish",
+      subreddit_url: null,
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  mxtoken: {
+    description: "MX is the native token of the MXC trading platform. MX holders reportedly benefit from asset appreciation, rebates on platform revenue, supervision, and voting. MX can be obtained through mining or purchases.",
+    total_supply: 948208804,
+    circulating_supply: 221954841,
+    links: {
+      homepage: [
+        "https://www.mxc.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "https://ethplorer.io/address/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "https://enjinx.io/eth/token/0x11eef04c884e24d9b7b4760e7476d06ddf797f36",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/MXCEnglish",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/MXC_Exchange",
+      facebook_username: "mxcexchangeofficial",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/MXCEnglish",
+      subreddit_url: "https://www.reddit.com/user/MXC_Exchange",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  zbtoken: {
+    description: "ZB Token (ZB) is an exchange token and the native currency of the ZB.COM crypto exchange. The ZB can be used to purchase monthly VIP status plans for transaction fee discounts, vote on exchange decisions, gain early access to special ZB launchpad events, receive crypto rewards from seasonal buybacks, and trade with other cryptocurrencies listed on the ZB exchange.",
+    total_supply: 2100000000,
+    circulating_supply: 463288810,
+    links: {
+      homepage: [
+        "https://www.zb.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "https://ethplorer.io/address/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "https://enjinx.io/eth/token/0xbd0793332e9fb844a52a205a233ef27a5b34b927",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/ZB_English",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/Zb_group",
+      facebook_username: "ZBGlobalGroup",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/ZB_English",
+      subreddit_url: "https://www.reddit.com/r/ZBExchange",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  hotbittoken: {
+    description: "Hotbit Token (HTB) is a cryptocurrency token and operates on the Ethereum platform.",
+    total_supply: 2500000000,
+    circulating_supply: 221954841,
+    links: {
+      homepage: [
+        "https://www.hotbit.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+        "https://ethplorer.io/address/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+        "https://enjinx.io/eth/token/0x6be61833fc4381990e82d7d4a9f4c9b3f67ea941",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/Hotbit_English",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/Hotbit_news",
+      facebook_username: "Hotbit.io",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/Hotbit_English",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  huobipooltoken: {
+    description: "HPT-HuobiPool Token is the global ecological certificate of HuobiPool.",
+    total_supply: 9929432936,
+    circulating_supply: 5076332936,
+    links: {
+      homepage: [
+        "https://www.huobipool.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xa66daa57432024023db65477ba87d4e7f5f95213",
+        "https://ethplorer.io/address/0xa66daa57432024023db65477ba87d4e7f5f95213",
+        "https://enjinx.io/eth/token/0xa66daa57432024023db65477ba87d4e7f5f95213",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/joinchat/IIM1LRITqjScyUEKpZNedQ",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/HuobiGlobal",
+      facebook_username: "100024349513191",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/joinchat/IIM1LRITqjScyUEKpZNedQ",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  golfcoin: {
+    description: "Rewards program for the golf industry.",
+    total_supply: 100000000000,
+    circulating_supply: 35341279386,
+    links: {
+      homepage: [
+        "https://www.golfcoin.cc/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x020c710646e23ab868dbe5b88004892797fe4efb",
+        "https://ethplorer.io/address/0x020c710646e23ab868dbe5b88004892797fe4efb",
+        "https://enjinx.io/eth/token/0x020c710646e23ab868dbe5b88004892797fe4efb",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.co/t8RuUg5XMf",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/golfcoin",
+      facebook_username: "golfcoin",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.co/t8RuUg5XMf",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  enecuum: {
+    description: "Enecuum is a mobile blockchain protocol for decentralized Web 3.0 applications",
+    total_supply: 12688056.75,
+    circulating_supply: 12688056.75,
+    links: {
+      homepage: [
+        "https://enecuum.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x16ea01acb4b0bca2000ee5473348b6937ee6f72f",
+        "https://ethplorer.io/address/0x16ea01acb4b0bca2000ee5473348b6937ee6f72f",
+        "https://enjinx.io/eth/token/0x16ea01acb4b0bca2000ee5473348b6937ee6f72f",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/Enecuum_EN",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/enq_enecuum",
+      facebook_username: "enecuum.EN",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/Enecuum_EN",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  factom: {
+    description: "Rewards program for the golf industry.",
+    total_supply: 2114495158.589,
+    circulating_supply: 2114495158.589,
+    links: {
+      homepage: [
+        "https://fantom.foundation/en/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "https://ethplorer.io/address/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "https://enjinx.io/eth/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/Fantom_English",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/FantomFDN",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/Fantom_English",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  zeroxbitcoin: {
+    description: "The first truly decentralized PoW mineable ERC20 token contract on the Ethereum blockchain.",
+    total_supply: 20999983.69,
+    circulating_supply: 20999983.69,
+    links: {
+      homepage: [
+        "https://0xbitcoin.org/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+        "https://ethplorer.io/address/0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+        "https://enjinx.io/eth/token/0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://discordapp.com/invite/JGEqqmS",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/0xbitcoin_erc20",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  vayla: {
+    description: "A token valued by the people",
+    total_supply: 24000000000000,
+    circulating_supply: 24000000000000,
+    links: {
+      homepage: [
+        "https://vaylatoken.nl/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x7b53b2c4b2f495d843a4e92e5c5511034d32bd15",
+        "https://ethplorer.io/address/0x7b53b2c4b2f495d843a4e92e5c5511034d32bd15",
+        "https://enjinx.io/eth/token/0x7b53b2c4b2f495d843a4e92e5c5511034d32bd15",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "http://t.me/VAYLAtoken",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/VAYLAtoken",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "http://t.me/VAYLAtoken",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  aergo: {
+    description: "It is not a blockchain. It's the Blockchain for business.",
+    total_supply: 100000000000,
+    circulating_supply: 35341279386,
+    links: {
+      homepage: [
+        "https://www.aergo.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xae31b85bfe62747d0836b82608b4830361a3d37a",
+        "https://ethplorer.io/address/0xae31b85bfe62747d0836b82608b4830361a3d37a",
+        "https://enjinx.io/eth/token/0xae31b85bfe62747d0836b82608b4830361a3d37a",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/aergoofficial",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/AERGO_IO",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/aergoofficial",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  lunchmoney: {
+    description: "Eat. Snap. Earn.",
+    total_supply: 210000000,
+    circulating_supply: 210000000,
+    links: {
+      homepage: [
+        "https://www.lunchmoney.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+        "https://ethplorer.io/address/0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+        "https://enjinx.io/eth/token/0x66fd97a78d8854fec445cd1c80a07896b0b4851f",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/lunchmoney",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/LunchToken",
+      facebook_username: "LunchMoneyToken",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/lunchmoney",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  kadena: {
+    description: "Kadena offers the fastest, safest and most scalable hybrid blockchain technology stack for entrepreneurs. Smarter contracts//Scaling proof of work securely.",
+    total_supply: 1000000000,
+    circulating_supply: 100000, // unkown
+    links: {
+      homepage: [
+        "https://www.kadena.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://explorer.chainweb.com/",
+        "",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/kadena_io",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  netkoin: {
+    description: "Earn cryptocurrency and redeem rewards from everday shopping!",
+    total_supply: 250000000000,
+    circulating_supply: 250000000000,
+    links: {
+      homepage: [
+        "https://www.netkoin.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+        "https://ethplorer.io/address/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+        "https://enjinx.io/eth/token/0x5d4d57cd06fa7fe99e26fdc481b468f77f05073c",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/netkoindiscussion",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/netkoin",
+      facebook_username: "https://www.facebook.com/Netkoin/",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/netkoindiscussion",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  gammacoin: {
+    description: "GMC are economic tokens and investments made using the Ethereum blockchain.",
+    total_supply: 100000000,
+    circulating_supply: 100000000,
+    links: {
+      homepage: [
+        "https://gammaproject.xyz/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
+        "https://ethplorer.io/address/0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
+        "https://enjinx.io/eth/token/0xa311856B777Df090D2D3D8C306CaAf6e4DfD9AE9",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/gammacoin_chat",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/gammagmc",
+      facebook_username: "",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/gammacoin_chat",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  bazookatoken: {
+    description: "Baztoken is an ERC20 with limitless usability which aims to revolutionize the E-Gaming, Sports betting & E-commerce.",
+    total_supply: 2500000,
+    circulating_supply: 2500000,
+    links: {
+      homepage: [
+        "https://baztoken.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x83caeecace9ec5c322c93743b2b370ed58951f5c",
+        "https://ethplorer.io/address/0x83caeecace9ec5c322c93743b2b370ed58951f5c",
+        "https://enjinx.io/eth/token/0x83caeecace9ec5c322c93743b2b370ed58951f5c",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/bazookians",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/BazToken",
+      facebook_username: "baztoken",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/bazookians",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  coinsto: {
+    description: "Coinsto is a Cryptocurrency project helping people to learn by others experience.",
+    total_supply: 888888888888,
+    circulating_supply: 888888888888,
+    links: {
+      homepage: [
+        "https://coinstoplatform.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x2a469a22101f1f672b745d729d13ab8dbd203c9b",
+        "https://ethplorer.io/address/0x2a469a22101f1f672b745d729d13ab8dbd203c9b",
+        "https://enjinx.io/eth/token/0x2a469a22101f1f672b745d729d13ab8dbd203c9b",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/Coinstocommunity",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "http://twitter.com/Coinstoglobal",
+      facebook_username: "Coinsto-Global-101540888104170/",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/Coinstocommunity",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  unibright: {
+    description: "Unibright makes it easy to integrate Blockchain technology into existing business",
+    total_supply: 150000000,
+    circulating_supply: 150000000,
+    links: {
+      homepage: [
+        "https://unibright.io/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://etherscan.io/token/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+        "https://ethplorer.io/address/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+        "https://enjinx.io/eth/token/0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/unibright_io",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/unibrightio",
+      facebook_username: "Unibright.IO",
+      bitcointalk_thread_identifier: null,
+      telegram_channel_identifier: "https://t.me/unibright_io",
+      subreddit_url: "",
+      repos_url: {
+        github: [],
+        bitbucket: [],
+      },
+    },
+  },
+  ilcoin: {
+    description: "The ILCoin blockchain is a revolutionary on-chain data storage system; developed not only to provide a strong foundation for the ILCoin cryptocurrency, but also to open up a wide range of possibilities for exceptionally safe yet transparent data storage, establishment of various smart contract systems and the launch of innovative decentralized applications running on our blockchain systems.",
+    total_supply: 2500000000,
+    circulating_supply: 477674987,
+    links: {
+      homepage: [
+        "https://ilcoincrypto.com/",
+        "",
+        "",
+      ],
+      explorer: [
+        "https://ilcoinexplorer.com/",
+        "",
+        "",
+        "",
+        "",
+      ],
+      official_forum_url: [
+        "",
+        "",
+        "",
+      ],
+      chat_url: [
+        "https://t.me/ILCoinDevelopmentTeam",
+        "",
+        "",
+      ],
+      announcement_url: [
+        "https://bitcointalk.org/index.php?topic=2656165.0",
+        "",
+      ],
+      twitter_screen_name: "https://twitter.com/ILC_B_Project",
+      facebook_username: "ILCoinBlockchainProject",
+      bitcointalk_thread_identifier: "https://bitcointalk.org/index.php?topic=2656165.0",
+      telegram_channel_identifier: "https://t.me/ILCoinDevelopmentTeam",
+      subreddit_url: "",
+      repos_url: {
+        github: [
+          "https://github.com/ILCoinDevTeam/ilcoin-master",
         ],
         bitbucket: [],
       },

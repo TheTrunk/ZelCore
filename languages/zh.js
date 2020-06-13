@@ -343,7 +343,7 @@ export default {
     do_not_change_rpc_ports3: "如果正在更改某个索引（例如，txindex设置为活动状态），则需要重新索引。",
     save_and_reindex: "保存并重新索引",
     zelnode_configuration_change_restart1: "更改Zelnode配置后，将自动执行守护程序重新启动。",
-    zelnode_configuration_change_restart2: "请记住，ZelNodes也需要更改ZelCash配置文件(zelcash.conf)。在修改此ZelNodes配置之前，您应该在‘工具’中修改此ZelCash配置。",
+    zelnode_configuration_change_restart2: "请记住，ZelNodes也需要更改Zel配置文件(zelcash.conf)。在修改此ZelNodes配置之前，您应该在‘工具’中修改此Zel配置。",
     zelnode_configuration_change_restart3: "错误配置的配置文件可能导致钱包出现故障！",
     my_zelnodes: "我的ZelNodes",
     all_zelnodes: "所有ZelNodes",
@@ -446,7 +446,7 @@ export default {
     daemon_restart_performed_after: "确认此新配置后，将执行守护程序重新启动。",
     zelnodes_configuration_loading: "ZelNodes配置正在加载...",
     save_and_continue: "保存并继续",
-    configuration_file_for_server: "您可以在下面找到为您的服务器生成的ZelCash配置文件。复制文本并粘贴到 ~/.zelcash/zelcash.conf 文件在您的服务器上。然后首先启动Server ZelNode。 \n"
+    configuration_file_for_server: "您可以在下面找到为您的服务器生成的Zel配置文件。复制文本并粘贴到 ~/.zelcash/zelcash.conf 文件在您的服务器上。然后首先启动Server ZelNode。 \n"
     + "一旦您的服务器ZelNode同步，您就可以启动您的ZelNode。请注意，启动可能需要长达一个小时。",
     copy_configuration: "将配置复制到剪贴板",
     activate_my_zelnode: "启动我的ZelNode！",
@@ -1206,7 +1206,7 @@ export default {
     qr_code_scanned: "二维码已扫描",
     sorry_no_monero_send: "很抱歉, 现在只能通过电脑版 ZelCore 发送 Monero",
     authentication_successful: "认证成功",
-    authetnication_unsuccessful: "认证失败",
+    authentication_unsuccessful: "认证失败",
     unknown_error_decode_sig: "解析签名是发生未知错误",
     biometrics_unavailable: "生物认证不可用",
     made_with_love: "Made with love by Zel",
